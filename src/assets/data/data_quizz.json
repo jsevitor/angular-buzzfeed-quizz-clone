@@ -103,10 +103,22 @@
       }
     ],
     "results": {
-      "H": "Homer Simpson",
-      "M": "Bart Simpson",
-      "L": "Lisa Simpson",
-      "A": "Marge Simpson"
+      "H": {
+        "character": "Homer Simpson",
+        "uri": "https://upload.wikimedia.org/wikipedia/pt/0/02/Homer_Simpson_2006.png"
+      },
+      "M": {
+        "character": "Bart Simpson",
+        "uri": "https://upload.wikimedia.org/wikipedia/pt/a/aa/Bart_Simpson_200px.png"
+      },
+      "L": {
+        "character": "Lisa Simpson",
+        "uri": "https://upload.wikimedia.org/wikipedia/pt/6/67/Lisa_Simpson_personagem.png"
+      },
+      "A": {
+        "character": "Marge Simpson",
+        "uri": "https://upload.wikimedia.org/wikipedia/pt/0/0b/Marge_Simpson.png"
+      }
     }
   }
   

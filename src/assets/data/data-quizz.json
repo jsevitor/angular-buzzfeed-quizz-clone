@@ -1,0 +1,112 @@
+{
+    "title": "Qual personagem dos Simpsons você seria?",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Qual seria sua atividade favorita em Springfield?",
+        "options": [
+          {"id": 1, "name": "Ir à Taverna do Moe para tomar uma cerveja", "alias": "H"},
+          {"id": 2, "name": "Assistir à TV em casa", "alias": "L"},
+          {"id": 3, "name": "Fazer compras no Mercado Kwik-E-Mart", "alias": "A"},
+          {"id": 4, "name": "Participar de eventos comunitários", "alias": "M"}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Qual é o seu senso de humor?",
+        "options": [
+          {"id": 1, "name": "Sarcástico e ácido", "alias": "H"},
+          {"id": 2, "name": "Bobo e engraçado", "alias": "M"},
+          {"id": 3, "name": "Seco e irônico", "alias": "L"},
+          {"id": 4, "name": "Amigável e inocente", "alias": "A"}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "O que você faria em um dia de folga?",
+        "options": [
+          {"id": 1, "name": "Dormir até tarde", "alias": "A"},
+          {"id": 2, "name": "Explorar novos lugares", "alias": "M"},
+          {"id": 3, "name": "Assistir a um filme ou série na TV", "alias": "L"},
+          {"id": 4, "name": "Praticar esportes ou atividades ao ar livre", "alias": "H"}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Qual é a sua relação com sua família?",
+        "options": [
+          {"id": 1, "name": "Adoro passar tempo com eles", "alias": "M"},
+          {"id": 2, "name": "Às vezes discordamos, mas nos amamos profundamente", "alias": "L"},
+          {"id": 3, "name": "Tenho uma relação complicada com alguns membros da família", "alias": "H"},
+          {"id": 4, "name": "Eles são minha prioridade número um", "alias": "A"}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "O que você faria se ganhasse na loteria?",
+        "options": [
+          {"id": 1, "name": "Investiria em educação ou caridade", "alias": "L"},
+          {"id": 2, "name": "Compraria coisas extravagantes para mim e para meus amigos", "alias": "M"},
+          {"id": 3, "name": "Ajudaria minha família e amigos", "alias": "A"},
+          {"id": 4, "name": "Viajaria pelo mundo", "alias": "H"}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "Como você lida com situações estressantes?",
+        "options": [
+          {"id": 1, "name": "Procuro manter a calma e encontrar soluções práticas", "alias": "H"},
+          {"id": 2, "name": "Uso o humor para aliviar a tensão", "alias": "M"},
+          {"id": 3, "name": "Refugio-me em meus hobbies ou interesses", "alias": "L"},
+          {"id": 4, "name": "Peço ajuda aos meus amigos ou familiares", "alias": "A"}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "Qual é a sua comida favorita?",
+        "options": [
+          {"id": 1, "name": "Rosquinhas", "alias": "H"},
+          {"id": 2, "name": "Hambúrgueres", "alias": "M"},
+          {"id": 3, "name": "Saladas e alimentos saudáveis", "alias": "A"},
+          {"id": 4, "name": "Comida caseira tradicional", "alias": "L"}
+        ]
+      },
+      {
+        "id": 8,
+        "question": "Se você pudesse ter um superpoder, qual escolheria?",
+        "options": [
+          {"id": 1, "name": "Voar", "alias": "A"},
+          {"id": 2, "name": "Invisibilidade", "alias": "L"},
+          {"id": 3, "name": "Superforça", "alias": "H"},
+          {"id": 4, "name": "Teletransporte", "alias": "M"}
+        ]
+      },
+      {
+        "id": 9,
+        "question": "Qual é o seu lema de vida?",
+        "options": [
+          {"id": 1, "name": "Viver cada dia como se fosse o último", "alias": "H"},
+          {"id": 2, "name": "Tudo com moderação", "alias": "A"},
+          {"id": 3, "name": "O conhecimento é poder", "alias": "L"},
+          {"id": 4, "name": "Rir é o melhor remédio", "alias": "M"}
+        ]
+      },
+      {
+        "id": 10,
+        "question": "O que você mais valoriza em um amigo?",
+        "options": [
+          {"id": 1, "name": "Lealdade", "alias": "M"},
+          {"id": 2, "name": "Inteligência", "alias": "L"},
+          {"id": 3, "name": "Coragem", "alias": "H"},
+          {"id": 4, "name": "Honestidade", "alias": "A"}
+        ]
+      }
+    ],
+    "results": {
+      "H": "Homer Simpson",
+      "M": "Bart Simpson",
+      "L": "Lisa Simpson",
+      "A": "Marge Simpson"
+    }
+  }
+  
